@@ -3,7 +3,7 @@ CAN/CANFD适配器
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    PCAN
    PCAN_FD
