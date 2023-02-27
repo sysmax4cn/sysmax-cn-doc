@@ -11,7 +11,7 @@ project = 'SysMax在线文档'
 copyright = 'Copyright 2014-2023 雪球电子'
 author = 'SysMAX'
 release = 'v0.1'
-html_logo = '_static/sysmax-logo.png'
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
@@ -27,4 +27,10 @@ language = 'zh_CN'
 
 html_theme = 'sphinx_rtd_theme'
 # html_theme = 'alabaster'
+# html_theme = 'pyramid'
+# html_theme = 'sizzle'
+# html_theme = 'yummy_sphinx_theme'
+
 html_static_path = ['_static']
+
+html_logo = '_static/sysmax-logo.png'

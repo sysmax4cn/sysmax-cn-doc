@@ -6,7 +6,10 @@ PCAN系列以下几款产品均可完美替代德国进口PCAN(IPEH-002021/00202
 三款产品外观、材质有所区别，软件使用上完全与进口一致
 
 - `购买链接`_
-- `驱动下载`_
+- `WIN10/11驱动下载`_
+- `WIN8驱动下载`_
+- `WIN7驱动下载`_
+- `WIN XP驱动下载`_
 
 PCAN2
 ------------
@@ -36,4 +39,7 @@ PCAN C(中国红特别版)
 
 
 .. _购买链接: https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-23664160369.14.48f94917QmiBmA&id=651316809234
-.. _驱动下载: https://www.peak-system.com/quick/DrvSetup  
+.. _WIN10/11驱动下载: https://www.peak-system.com/quick/DrvSetup  
+.. _WIN8驱动下载: https://www.peak-system.com/fileadmin/media/files/PEAK-System_Outdated-Driver-Setup_Win81.zip
+.. _WIN7驱动下载: https://www.peak-system.com/fileadmin/media/files/PEAK-System_Outdated-Driver-Setup_Win7.zip
+.. _WIN XP驱动下载: https://www.peak-system.com/fileadmin/media/files/PEAK-System_Outdated-Driver-Setup_WinXP.zip
